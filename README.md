@@ -1,4 +1,4 @@
-# gpt-2-simple 
+# gpt 2 simple
 
 ![gen_demo](docs/gen_demo.png)
 
